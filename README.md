@@ -1,6 +1,6 @@
 # Nordic Food Tracker
 
-A public reference project translating food regulations, animal welfare standards, and farming
+> A public reference project translating food regulations, animal welfare standards, and farming
 practices into clear, verified information.
 
 ---
