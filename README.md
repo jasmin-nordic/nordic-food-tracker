@@ -8,11 +8,11 @@ practices into clear, verified information.
 ## About
 
 Nordic Food Tracker documents what welfare standards require on paper — and what that means in
-practice. It maps the gap between written regulation and real-world understanding, and flags where
+practice. It maps the gap between written regulation and real-world understanding and practises, and flags where
 common assumptions exceed what standards actually specify.
 
 **This project is:**
-- Research and documentation, not advocacy
+- Research and documentation
 - Built on manual source verification and structured methodology
 - Focused on Nordic food systems and regulatory frameworks
 
